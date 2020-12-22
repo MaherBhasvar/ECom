@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <div style={{ backgroundColor: "grey", height: 300, width: "100%", marginBottom: "5em" }}>
-            <div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
+        <div style={{ backgroundColor: "grey", height: 300, width: "100%" }}>
+            {/* <div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                     </div>
@@ -12,7 +12,7 @@ const Header = () => {
                     <div className="carousel-item">
                     </div>
                 </div>
-            </div>
+            </div> */}
             {/* <div class="container">
                 <div class="row">
                     <div class="col-sm" style={{ backgroundColor: "green" }}>
